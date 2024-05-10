@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c4e0a6d65537a047832bb9e1cd5d965, type: 3}
+  m_Name: GalacticFury
+  m_EditorClassIdentifier: 
+  equipped: 0
+  locked: 1
+  id: 1
+  title: Galactic Fury
+  description: A fast, destructive rocket.
+  cost: 100
+  player: {fileID: 4704843720867393485, guid: 3de072834b8573443823c61779091b80, type: 3}
+  sprite: {fileID: 21300000, guid: b3eed1a26951b374e83576e5c2012505, type: 3}
